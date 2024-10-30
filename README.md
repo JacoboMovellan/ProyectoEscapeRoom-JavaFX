@@ -1,0 +1,1 @@
+Este es un proyecto a modo de escape room en el que se genera un numero aleatorio del 1 al 100. El usuario tiene 6 intentos para adivinarlo, de no hacerlo, el usuario muere.
